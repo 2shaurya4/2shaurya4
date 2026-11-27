@@ -13,7 +13,7 @@ I design circuit boards, write the firmware that runs on them, and build the har
 
 ### **Terra Labs** | Electrical Engineer → Project Lead
 *Los Angeles, CA · Jan 2026 – Present*
-* **Wisp (Project Lead, Aug 2026 –):** Leading a 10-person team building a ~15-drone indoor swarm tracked by a custom Ultra-Wideband positioning system. Details in [Projects](#wisp-indoor-drone-swarm).
+* **Wisp (Project Lead, Aug 2026 – Present):** Leading a 10-person team building a ~15-drone indoor swarm tracked by a custom Ultra-Wideband positioning system. Details in [Projects](#wisp-indoor-drone-swarm).
 * **Glyph (Electrical Engineer, Jan – May 2026):** Built the embedded electrical system for a drink-serving Unitree Go2 robot dog. Details in [Projects](#glyph-drink-serving-robot-dog).
 
 ### **Baum Family Maker Space, USC** | Additive Manufacturing Operations Lead
